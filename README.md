@@ -9,3 +9,23 @@ Here, I have completed few tasks - these are -
   -   money Withdraw,
   -   Payment and Check Balance after completing above tasks.
 
+### Tools and Technology Used
+  - Java
+  - IntelliJ IDEA
+  - Rest Assured
+  - Jackson Databind
+  - TestNG Framework
+  - Allure
+
+### Prerequisites
+  - JDK
+  - Gradle
+
+### How to run this project
+  - Clone this project ``` https://github.com/Katha-Sikdar/Dmoney-RestAssured```
+  - Open terminal
+  - Give the following command: gradle clean test
+  - For generating Allure Report use these commands:
+       -  allure generate allure-results --clean -output
+       -  allure serve allure-results
+
