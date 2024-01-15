@@ -26,6 +26,17 @@ Here, I have completed few tasks - these are -
   - Open terminal
   - Give the following command: gradle clean test
   - For generating Allure Report use these commands:
-       -  allure generate allure-results --clean -output
+       -  allure generate allure-results
        -  allure serve allure-results
+         
+### Allure Reports - 
 
+
+
+
+![ggggg](https://github.com/Katha-Sikdar/Dmoney-RestAssured/assets/82141562/38e22ec7-a110-4bed-911b-8ca88ddf0008)
+
+
+
+
+![r2](https://github.com/Katha-Sikdar/Dmoney-RestAssured/assets/82141562/ccf6ade9-c416-4164-aa57-99ed59e9370c)
